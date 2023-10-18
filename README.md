@@ -16,6 +16,7 @@ Pour ce projet nous devrons implémenter les fonctionnalités suivantes :
 Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
 - PHP (v8.2.8 ou supérieur)
+- laragon
 - Base de données MySQL
 
 ### Étapes d'installation :
@@ -26,6 +27,8 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 git clone https://github.com/BFdev22/gestionAmis.git
 
 ## Utilisation
+
+Dans l'index.php modifié en fonction de votre root la base url si besoin : "http://localhost/gestionamis/"
 
 Créer vos utilisateurs et ajouter les amis.
 
